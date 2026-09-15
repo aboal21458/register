@@ -1,9 +1,11 @@
 {
   "owner": {
     "username": "aboal21458",
-    "email": "Aboalez2003@tutamail.com"
+    "email": "kola68715@gmail.com"
   },
-  "record": {
+  "description": "Sqola - Learning platform",
+  "repo": "https://github.com/aboal21458/sqola",
+  "records": {
     "NS": ["erin.ns.cloudflare.com", "jaziel.ns.cloudflare.com"]
   }
 }
